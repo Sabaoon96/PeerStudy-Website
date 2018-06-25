@@ -1,1 +1,5 @@
-PeerStudy-Website
+# PeerStudy Prototype Website
+
+- HTML
+- CSS
+- Javascript
